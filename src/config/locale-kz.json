@@ -1,0 +1,98 @@
+{
+  "kz": {
+    "months" : ["Қаңтар", "Ақпан", "Наурыз", "Сәуір", "Мамыр", "Маусым", "Шілде", "Тамыз", "Қыркүйек", "Қазан", "Қараша", "Желтоқсан"],
+    "monthsShort" : ["Қаң", "Ақп", "Нау", "Сәу", "Мам", "Мау", "Шіл", "Там", "Қыр", "Қаз", "Қар", "Жел"],
+    "weekdays": ["Дүйсенбі", "Сейсенбі", "Сәрсембі", "Бейсембі", "Жұма", "Сенбі", "Жексенбі"],
+    "weekdaysShort": ["Дүй", "Сей", "Сәр", "Бей", "Жұма", "Сен", "Жек"],
+    "weekdaysMin": ["Дүй", "Сей", "Сәр", "Бей", "Жұма", "Сен", "Жек"],
+    "relativeTime" : {
+      "future": "%s қалды",
+      "past":   "%s бұрын",
+      "s"  : "бірнеше секунд",
+      "ss" : "%d секунд",
+      "m":  "минут",
+      "mm": "%d минут",
+      "h":  "сағат",
+      "hh": "%d сағат",
+      "d":  "күн",
+      "dd": "%d күн",
+      "M":  "ай",
+      "MM": "%d ай",
+      "y":  "жыл",
+      "yy": "%d жыл"
+    },
+    "calendar" : {
+      "lastDay" : "[Кеше сағат] LT",
+      "sameDay" : "[Бүгін сағат] LT",
+      "nextDay" : "[Ертең сағат] LT",
+      "lastWeek" : "[алдыңғы] dddd [сағат] LT",
+      "nextWeek" : "dddd [сағат] LT",
+      "sameElse" : "L"
+    },
+    "invalidDate": "Жарамсыз күн"
+  },
+  "ru": {
+    "months" : ["Январь", "Февраль", "Март", "Апрель", "Май", "Июнь", "Июль", "Август", "Сентябрь", "Октябрь", "Ноябрь", "Декабрь"],
+    "monthsShort" : ["Янв", "Фев", "Мар", "Апр", "Май", "Июн", "Июл", "Авг", "Сен", "Окт", "Ноя", "Дек"],
+    "weekdays": ["Понедельник", "Вторник", "Среда", "Четверг", "Пятница", "Суббота", "Воскресенье"],
+    "weekdaysShort": ["Пон", "Вто", "Сре", "Чет", "Пят", "Суб", "Вос"],
+    "weekdaysMin": ["Пон", "Вто", "Сре", "Чет", "Пят", "Суб", "Вос"],
+    "relativeTime" : {
+      "future": "осталось %s",
+      "past":   "%s назад",
+      "s"  : "несколько секунд",
+      "ss" : "%d секунд",
+      "m":  "минут",
+      "mm": "%d минут",
+      "h":  "час",
+      "hh": "%d часов",
+      "d":  "день",
+      "dd": "%d дней",
+      "M":  "месяц",
+      "MM": "%d месяцев",
+      "y":  "год",
+      "yy": "%d лет"
+    },
+    "calendar" : {
+      "lastDay" : "[Вчера в] LT",
+      "sameDay" : "[Сегодня в] LT",
+      "nextDay" : "[Завтра в] LT",
+      "lastWeek" : "[прошлую] dddd [в] LT",
+      "nextWeek" : "dddd [в] LT",
+      "sameElse" : "L"
+    },
+    "invalidDate": "Недействительная дата"
+  },
+  "en": {
+    "months" : ["January", "February", "March", "April", "May", "June", "July", "August", "September", "October", "November", "December"],
+    "monthsShort" : ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"],
+    "weekdays": ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday", "Saturday", "Sunday"],
+    "weekdaysShort": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
+    "weekdaysMin": ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"],
+    "relativeTime" : {
+      "future": "%s later",
+      "past":   "%s ago",
+      "s"  : "few seconds",
+      "ss" : "%d seconds",
+      "m":  "minute",
+      "mm": "%d minutes",
+      "h":  "hour",
+      "hh": "%d hours",
+      "d":  "day",
+      "dd": "%d days",
+      "M":  "month",
+      "MM": "%d months",
+      "y":  "year",
+      "yy": "%d years"
+    },
+    "calendar" : {
+      "lastDay" : "[Yesterday at] LT",
+      "sameDay" : "[Today at] LT",
+      "nextDay" : "[Tomorrow at] LT",
+      "lastWeek" : "[last] dddd [at] LT",
+      "nextWeek" : "dddd [at] LT",
+      "sameElse" : "L"
+    },
+    "invalidDate": "Invalid date"
+  }
+}

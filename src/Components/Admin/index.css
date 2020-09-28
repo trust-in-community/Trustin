@@ -1,0 +1,56 @@
+#components-layout-demo-custom-trigger .trigger {
+    font-size: 18px;
+    line-height: 64px;
+    padding: 0 24px;
+    cursor: pointer;
+    transition: color 0.3s;
+}
+
+#components-layout-demo-custom-trigger .trigger:hover {
+    color: #1890ff;
+}
+
+#components-layout-demo-custom-trigger .logo {
+    height: 32px;
+    background: rgba(255, 255, 255, 0.2);
+    margin: 16px;
+}
+
+.site-layout .site-layout-background {
+    background: #fff;
+}
+
+
+
+.custom-form .content-form {
+    border-radius: 8px;
+    padding: 12px 6px;
+    background-color: #fff;
+}
+
+.custom-form .ant-picker {
+    border-radius: 2px;
+    border: none !important;
+}
+
+.custom-form .ant-picker-focused {
+    box-shadow: none !important;
+    border: none !important;
+}
+
+.custom-form .RichEditor-root{
+    border: none;
+    padding: 0;
+    background-color: #fff;
+}
+
+.custom-form .DraftEditor-editorContainer {
+    padding: 4px 11px 0px;
+    font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}
+
+.custom-form .public-DraftEditorPlaceholder-inner {
+    padding: 0px 11px;
+    color: #BFBFBF;
+    font-family: "SF Pro Display", "SF Pro Icons", "Helvetica Neue", "Helvetica", "Arial", sans-serif;
+}

@@ -1,0 +1,77 @@
+.trending .ant-list-item-meta-title {
+    margin: 0px !important;
+}
+
+.trending .ant-list-item-meta {
+    margin-bottom: 4px !important;
+}
+
+.trending .ant-list-item-action {
+    margin-top: 4px !important;
+}
+
+
+.trending .ant-list-item-meta-avatar {
+    margin-right: 8px !important;
+}
+
+
+.uk-news-button {
+    background-color: #fa3454 !important;
+    color: white !important;
+    border-color: #fa3454 !important;
+}
+
+.uk-news-button-outline {
+    background-color: transparent !important;
+    color: #fa3454 !important;
+    border: 1px solid #fa3454 !important;
+    text-shadow: none !important;
+}
+
+
+.uk-comments-button-outline {
+    background-color: transparent !important;
+    color: rgb(44, 44, 46) !important;
+    border: 1px solid rgb(44, 44, 46) !important;
+    text-shadow: none !important;
+}
+
+.uk-button-warning-outline {
+    background-color: transparent !important;
+    color: rgb(255, 149, 0) !important;
+    border: 1px solid rgb(255, 149, 0) !important;
+    text-shadow: none !important;
+}
+
+.uk-button-danger-outline {
+    background-color: transparent !important;
+    color: rgb(255,12,46) !important;
+    border: 1px solid rgb(255,12,46) !important;
+    text-shadow: none !important;
+}
+
+
+.comment .comment-author {
+    font-size: 14px !important;
+}
+
+.comment .comment-content {
+    font-size: 16px !important;
+}
+
+
+.ant-timeline-item {
+    padding-bottom: 8px;
+}
+
+.news-comments .ant-timeline-item-head-blue {
+    color: #FF0C2E;
+    border-color: #FF0C2E;
+}
+
+.news-comments .ant-timeline-item-content {
+    background-color: #f2f2f2;
+    padding: 4px 8px;
+    border-radius: 8px;
+}

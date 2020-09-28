@@ -1,0 +1,14 @@
+.user-info dt {
+    font-size: 12px;
+    color: #999999;
+}
+
+.user-info dd {
+    font-size: 14px;
+}
+
+.user-interests a {
+    font-size: 14px;
+    margin-right: 12px;
+    margin-bottom: 4px;
+}

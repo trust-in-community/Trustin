@@ -1,0 +1,100 @@
+
+
+.chat-messages .ant-comment {
+    padding: 4px 16px;
+}
+
+
+.chat-messages .ant-comment-inner {
+    padding: 4px 0px;
+}
+
+
+
+.chat-messages .ant-comment-content-author-name {
+    font-size: 14px;
+    font-weight: 500;
+}
+
+.chat-messages .ant-comment-content-author-time {
+    font-size: 14px;
+}
+
+
+.chat-messages .uk-panel-scrollable {
+    border: none;
+    border-left: 1px solid #e5e5e5;
+    border-right: 1px solid #e5e5e5;
+    padding: 0px;
+}
+
+.chat-textarea {
+    padding: 8px;
+    border-top: 1px solid #d9d9d9;
+}
+
+.chat-textarea textarea.ant-input {
+    border-radius: 8px;
+}
+
+.auth-send-button {
+    box-sizing: border-box;
+    height: 30px;
+    padding-right: 8px;
+    padding-left: 8px;
+    border-radius: 8px;
+    background: #0e6dcd;
+    color: #fff;
+    vertical-align: middle;
+    display: inline-flex;
+    justify-content: center;
+    align-items: center;
+    transition: .1s ease-in-out;
+    transition-property: color,background-color;
+}
+
+.auth-clip-button {
+    height: 30px;
+    padding-right: 8px;
+    padding-left: 8px;
+    border-radius: 8px;
+    background: #fff;
+    border: 1px solid #d9d9d9;
+    color: #252525;
+}
+
+.chat-navigation {
+    z-index: 1000000 !important;
+    padding: 8px 16px;
+    background-color: #f8f8f8;
+    border-bottom: 1px solid #d9d9d9;
+}
+
+
+.message-my {
+
+}
+
+.message-other {
+
+}
+
+
+.user-avatar {
+    width: 64px;
+    height: 64px;
+    padding: 4px 4px;
+}
+
+.chat-list-item {
+    padding: 8px;
+}
+
+.chat-list-item .ant-typography {
+    font-size: 13px;
+}
+
+.chat-list-item small {
+    font-size: 14px;
+    font-weight: 500;
+}

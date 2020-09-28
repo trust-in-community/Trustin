@@ -1,0 +1,169 @@
+.small-navbar {
+    height: 36px;
+    line-height: 36px;
+}
+
+.small-navbar li {
+    font-size: 15px !important;
+    line-height: 36px;
+}
+
+
+.logo {
+    font-weight: bold !important;
+    color: #233682;
+    text-transform: uppercase;
+}
+
+
+.donate {
+    background: #0EAD69 !important;
+    color: white !important;
+    border-color: #0EAD69 !important;
+}
+
+
+.donations-color {
+    color: #0EAD69 !important;
+}
+
+
+.welcome-content {
+    width: calc(38vw);
+}
+
+@media (max-width: 768px) {
+    .welcome-content {
+        width: calc(100vw);
+    }
+}
+
+
+
+
+
+/*
+    Rich Editor Style
+*/
+.RichEditor-root {
+    /*background: #F6F6F6;*/
+    border: 1px solid #ddd;
+    font-family: 'Open-Sans', serif;
+    font-size: 18px;
+    color: black;
+    border-radius: 4px;
+     padding: 4px 8px;
+}
+
+.RichEditor-editor {
+    cursor: text;
+    font-size: 16px;
+    border-radius: 12px;
+    background-color: #fff;
+    padding: 0px;
+}
+
+.RichEditor-editor .public-DraftEditorPlaceholder-root,
+.RichEditor-editor .public-DraftEditor-content {
+    margin: 0 -15px -15px;
+    padding: 15px;
+}
+
+.RichEditor-editor .public-DraftEditor-content {
+    min-height: 100px;
+}
+
+.RichEditor-hidePlaceholder .public-DraftEditorPlaceholder-root {
+    display: none;
+}
+
+.RichEditor-editor .RichEditor-blockquote {
+    border-left: 4px solid #0e6dcd;
+    color: #666;
+    font-style: italic;
+    margin: 16px 0;
+    padding: 8px 16px;
+    font-size: 18px;
+    color: #444444;
+    border-radius: 4px;
+    background-color: #f7f7f7;
+}
+
+
+.RichEditor-editor .public-DraftStyleDefault-pre {
+    background-color: rgba(0, 0, 0, 0.05);
+    font-family: 'Inconsolata', 'Menlo', 'Consolas', monospace;
+    font-size: 16px;
+    padding: 20px;
+}
+
+.RichEditor-controls {
+    font-family: 'Open-sans', sans-serif;
+    font-size: 14px;
+    margin-bottom: 5px;
+    user-select: none;
+}
+
+.RichEditor-styleButton {
+    color: #9fa6bf;
+    font-weight: 600;
+    cursor: pointer;
+    margin-right: 14px;
+    padding: 3px 6px !important;
+    display: inline-block;
+}
+
+.RichEditor-activeButton {
+    color: white;
+    border-radius: 6px;
+    box-shadow: 0 2px 4px 0 rgba(112, 83, 83, 0.15), 0 2px 4px 0 rgba(0, 0, 0, 0.05);
+}
+
+
+.news-details .RichEditor-root {
+    font-size: 14px !important;
+}
+
+.news-details .RichEditor-root p {
+    font-size: 14px !important;
+}
+
+.news-details .RichEditor-root h2 {
+    font-size: 14px !important;
+}
+
+
+.news-details .RichEditor-root h3 {
+    font-size: 14px !important;
+}
+
+.news-details .RichEditor-root h1 {
+    font-size: 14px !important;
+}
+
+
+.auth-color {
+    color: #0e6dcd !important;
+}
+
+.auth-background-color {
+    background-color: #0e6dcd !important;
+    border-color: #0e6dcd !important;
+}
+
+.auth-secondary-background-color {
+    background-color: rgba(14, 109, 205, 0.2);
+    border-color: rgba(14, 109, 205, 0.2);
+}
+
+
+.event-secondary-background-color {
+    background-color: rgba(191,72,0, 0.2);
+}
+
+.news-secondary-background-color {
+    background-color: rgba(250,52,84, 0.2);
+}
+
+
+
